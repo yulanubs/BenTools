@@ -4,5 +4,6 @@
     <string name="app_name">BenTools</string>
     <string name="hello_world">欢迎使用BenTools</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
 
 </resources>
